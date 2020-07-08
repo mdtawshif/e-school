@@ -1,0 +1,71 @@
+.container img{
+    width: 200px;
+}
+.sign{
+    background-color: seagreen;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 2px 15px;
+    cursor: pointer;
+}
+.top{
+    margin-top: 10px;
+}
+span{
+    color: seagreen;
+}
+.card{
+    text-align: center;
+}
+.courses{
+    text-align: left;
+}
+.text{
+padding: 70px;
+}
+.card-footer img{
+    height: 20px;
+    width: 20px;
+}
+.cour{
+    border-radius: 10px;
+}
+.cour img{
+    height: 70px;
+    width: 70px;
+}
+.imag{
+    height: 300px;
+    width: 270px;
+}
+.imgg img{
+    height: 250px;
+    width: 250px;
+    margin-top: 5px;
+}
+.testti{
+    padding: 100px;
+}
+.last-img img{
+    height:150px;
+    width: 150px;
+}
+.last-head{
+    text-align: center;
+}
+.last{
+    padding: 90px 200px;
+}
+.term{
+   padding: 20px 30px;
+    margin: auto;
+    color: white;
+   background-color: rgb(4, 4, 37);
+}
+footer{
+    background-color: rgb(4, 4, 37);
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
